@@ -39,7 +39,7 @@ The first API is used for getting a list of all venue categories in Foursquare A
         <li>Type 1: Health Care (20 points)</li>
         <li>Type 2: Transportation and Travel (10 points)</li>
         <li>Type 3: Government and Public Services (2.5 points)</li>
-        <li>Type 4: Amentiesi (2.5 points)</li>
+        <li>Type 4: Amenities (2.5 points)</li>
         <li>Type 5: Art, Culture and Community (5 points)</li>
     </ol>
 </p>    
@@ -71,7 +71,7 @@ Afterwards, the venues are filtered based on the list obtained by the first API,
 </p>
 <p>
     Result of the analysis is showing in the aforementioned bar chart. Both cities are performing better than their counterparts in some areas. 
-To summarize the finding, Fort Myers is winning in Health Care and Art, Culture and Community, while Toronto is surpressing Fort Myers in Transportation and Travel. Both cities are comparable to each other in Governemnt and Public Services and Amenties categories.
+To summarize the finding, Fort Myers is winning in Health Care and Art, Culture and Community, while Toronto is surpressing Fort Myers in Transportation and Travel. Both cities are comparable to each other in Governemnt and Public Services and Amenities categories.
 
 Therefore, we can conclude that Fort Myers overtook Toronto in the contest of being the best retirement community in the North America region, though only winning by a nose. 
 </p>
@@ -92,8 +92,3 @@ Therefore, we can conclude that Fort Myers overtook Toronto in the contest of be
 <p>
     Based on the data analysis and visualization, Fort Myers is considered to be the best place for retirement in the North America region. Retirees could enjoy a good combination of different facilities and services to spend the rest of their lives.
 </p>
-
-
-```python
-
-```
